@@ -267,3 +267,4 @@ let g:EasyMotion_smartcase=1
 set completeopt-=preview
 set noshowmode
 let g:echodoc_enable_at_startup=1
+let g:ycm_global_ycm_extra_conf='/home/mustaphar/rd/c/.ycm_extra_conf.py'
