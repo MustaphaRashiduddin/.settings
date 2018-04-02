@@ -1,0 +1,10 @@
+xrdb -merge .Xresources
+
+for installing:
+sudo pacman -Syyu <package>
+
+for deleting:
+sudo pacman -Rns <package>
+
+for searching packages:
+sudo pacman -Ql <package>

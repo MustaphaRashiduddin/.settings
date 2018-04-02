@@ -1,0 +1,11 @@
+! Use a nice tretype font and size by default...
+! xterm*faceName: Canterell
+xterm*faceName: Inconsolata
+xterm*faceSize: 12
+
+! xterm*foreground: rgb:a8/a8/a8
+xterm*foreground: white
+xterm*background: rgb:00/00/00
+
+xterm*visualBell: True
+xterm*fullscreen: True
