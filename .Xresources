@@ -3,9 +3,12 @@
 xterm*faceName: Inconsolata
 xterm*faceSize: 12
 
-! xterm*foreground: rgb:a8/a8/a8
-xterm*foreground: white
+xterm*foreground: rgb:a8/a8/a8
+! xterm*foreground: white
 xterm*background: rgb:00/00/00
+xterm*cursorColor: rgb:a8:a8:a8
+xterm*pointerShape: arrow
+xterm*pointerColor: rgb:a8/a8/a8
 
 xterm*visualBell: True
 xterm*fullscreen: True
